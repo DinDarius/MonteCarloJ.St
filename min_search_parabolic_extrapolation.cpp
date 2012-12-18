@@ -4,6 +4,7 @@
 //    Min_Search_Parabolic_Extrapolation                                      //
 ////////////////////////////////////////////////////////////////////////////////
 
+
 #include <float.h>                        // required for DBL_MAX, DBL_EPSILON
 #include <math.h>                         // required for fabs(), sqrt()
 

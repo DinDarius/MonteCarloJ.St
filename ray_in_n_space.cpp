@@ -47,6 +47,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 //                                                                            //
 
+
 void Ray_in_n_Space(double v[], double initial_pt[], double direction[],
                                                       double distance, int n )
 {

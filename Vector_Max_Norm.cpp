@@ -32,6 +32,7 @@
 //           ...                                                              //
 ////////////////////////////////////////////////////////////////////////////////
 //                                                                            //
+
 #include <math.h>                               // required for fabs()
 
 double Vector_Max_Norm(double v[], int n)

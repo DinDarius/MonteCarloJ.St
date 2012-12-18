@@ -4,6 +4,7 @@
 //    Min_Search_Parabolic_Interpolation                                      //
 ////////////////////////////////////////////////////////////////////////////////
 
+
 #include <float.h>                          // required for DBL_EPSILON
 #include <math.h>                           // required for fabs(), sqrt()
 

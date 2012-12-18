@@ -6,6 +6,7 @@
 #include <vector>
 #include <algorithm>
 
+
 #define EPS 0.1
 #define N 2
 
